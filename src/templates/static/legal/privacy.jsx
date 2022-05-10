@@ -101,14 +101,13 @@ const Privacy = () => (
             <li>{it.L('Right to erasure: the client has the right to obtain the erasure of the client\'s personal data, provided, among others, the personal data in question are no longer necessary in relation to the purpose for which they were collected.')}</li>
             <li>{it.L('Right to restriction and right to object: the client has the right to restrict the Company\'s processing activities or to object to the processing of the client\'s personal data.')}</li>
             <li>{it.L('Right to data portability: the client has the right to request a copy of the client\'s personal data in a digital format and, where possible, ask the Company to transfer it to another company.')}</li>
-         </ul>
+        </ul>
         <p>{it.L('The right to erasure is not an absolute right. The Company has to comply with retention requirements set out on any applicable laws, including financial regulations and anti-money laundering laws.')}</p>
         <p>{it.L('The client can make any of the requests set out above by emailing the Company\'s data protection officer directly at dpo@deriv.com or by using the contact details on the Contact Us page.')}</p>
         <p>{it.L('If the client is unhappy with how the Company handles the personal data, the client can file a complaint with the Company. If the client is not satisfied with the outcome of the Company\'s internal complaints procedure, or if the client considers that the client\'s complaint has not been handled correctly, the client may lodge a complaint to the Company\'s lead supervisory authority on data processing practices.')}</p>
 
         <h2 data-anchor='marketing'>{it.L('Marketing')}</h2>
         <p>{it.L('The client has the right to opt out of receiving marketing materials from the Company. This can be done by either not providing the client\'s consent to receiving marketing materials when opening an account with the Company or by revoking it at any point during the period that the client holds an account with the Company. In both cases, the Company shall not send any marketing materials to the client.')}</p>
-
 
         <h2 data-anchor='notification-of-changes'>{it.L('Notification of changes')}</h2>
         <p>{it.L('Any changes in the Company\'s privacy policy or security statement will be posted on this website. For any material changes that directly affect the economic use of the client\'s personal information, the Company will request the client\'s prior authorisation in writing before effecting such changes on the client\'s account.')}</p>
