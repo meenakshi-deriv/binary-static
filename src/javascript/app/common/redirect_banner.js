@@ -28,11 +28,13 @@ const RedirectBanner = (() => {
     };
     
     const handleRedirectROW = () => {
-        window.location.replace('https://binary.bot/move-to-deriv');
+       // window.location.replace('https://binary.bot/move-to-deriv');
         
         // Check if param have ?binary-com-lp
-        const redirectBinary = Url.paramsHash()['binary-com-lp'];
-        if (redirectBinary || Cookies.get('binary-com')){
+       // const redirectBinary = Url.paramsHash();
+        let redirectBinary = new URLSearchParams(window.location.search)
+        console.log(redirectBinary.has('binary-com-lp'))
+        if (redirectBinary.has('binary-com-lp') || Cookies.get('binary-com')){
             // Set cookie if they wanted to stay at binary.com and no redirect
             Cookies.set('binary-com', true, { expires: 15 });
             window.location.href = 'https://binary.com';
