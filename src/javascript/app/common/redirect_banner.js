@@ -30,7 +30,7 @@ const RedirectBanner = (() => {
         window.location.replace('https://binary.bot/move-to-deriv');
         
         // Check if param have ?binary-com-lp
-        let redirectBinary = new URLSearchParams(window.location.search)
+        const redirectBinary = new URLSearchParams(window.location.search);
         if (redirectBinary.has('binary-com-lp') || Cookies.get('binary-com')){
             // Set cookie if they wanted to stay at binary.com and no redirect
             Cookies.set('binary-com', true, { expires: 15 });
