@@ -34,7 +34,7 @@ const RedirectBanner = (() => {
         const redirectBinary = Url.paramsHash()['binary-com-lp'];
         if (redirectBinary || Cookies.get('binary-com')){
             // Set cookie if they wanted to stay at binary.com and no redirect
-            Cookies.set('binary-com', true, { expires : 15 });
+            Cookies.set('binary-com', true, { expires: 15 });
             window.location.href = 'https://binary.com';
         }
     
