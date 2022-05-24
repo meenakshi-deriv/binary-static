@@ -1,9 +1,9 @@
+const Cookies          = require('js-cookie');
 const DerivBanner = require('./deriv_banner');
 const BinarySocket = require('../base/socket');
 const State = require('../../_common/storage').State;
 const Client = require('../base/client');
 const isEuCountrySelected      = require('../../_common/utility').isEuCountrySelected;
-const Cookies          = require('js-cookie');
 const Url = require('../../_common/url');
 
 const RedirectBanner = (() => {
@@ -14,8 +14,7 @@ const RedirectBanner = (() => {
             const eu_country = isEuCountrySelected(Client.get('residence')) || isEuCountrySelected(State.getResponse('website_status.clients_country'));
             if (eu_country) {
                 handleRedirect();
-            }
-            else{
+            } else {
                 handleRedirectROW();
             }
             
@@ -25,20 +24,22 @@ const RedirectBanner = (() => {
 
     const handleRedirect = () => {
         window.location.href = '/move-to-deriv/';
+    
     };
+    
     const handleRedirectROW = () => {
         window.location.replace('https://binary.bot/move-to-deriv');
         
-        //check if param have ?binary-com-lp
+        // Check if param have ?binary-com-lp
         const redirectBinary = Url.paramsHash()['binary-com-lp'];
-        if(redirectBinary || Cookies.get('binary-com')){
-            //set cookie if they wanted to stay at binary.com and no redirect
+        if (redirectBinary || Cookies.get('binary-com')){
+            // Set cookie if they wanted to stay at binary.com and no redirect
             Cookies.set('binary-com', true, {
-                expires : 15,
-              })
+                expires : 15
+            });
             window.location.href = 'https://binary.com';
         }
-       
+    
     };
 
     const loginOnLoad = () => {
