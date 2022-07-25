@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-05-23 02:06\n"
+"PO-Revision-Date: 2022-06-30 14:48\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -3887,7 +3887,7 @@ msgid "Deriv (V) Ltd,"
 msgstr "Deriv (V) Ltd,"
 
 msgid "Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republic of Vanuatu. Licensed and regulated by the Vanuatu Financial Services Commission."
-msgstr ""
+msgstr "Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republik Vanuatu. Dilisensikan dan diatur oleh Komisi Layanan Keuangan Vanuatu."
 
 msgid "Deriv (V) Ltd: Vanuatu"
 msgstr "Deriv (V) Ltd: Vanuatu"
@@ -5899,7 +5899,7 @@ msgstr "Jika DIEL memutuskan untuk memperkenalkan platform trading baru, DIEL ak
 msgid "If a court or regulatory body of competent jurisdiction declares any provision of the Terms to be invalid or unenforceable, the rest of the Terms shall remain in full force and effect."
 msgstr "Jika pengadilan atau badan pengatur dari yurisdiksi yang berlaku menyatakan salah satu ketentuan dari Persyaratan adalah tidak berlaku atau tidak dapat dilaksanakan, maka Ketentuan lainnya masih akan tetap berlaku dan memiliki kekuatan hukum penuh."
 
-msgid "If a law or regulation or the order of a court of a competent jurisdiction or a governmental or law enforcement agency requires the Company to disclose the client's personal or financial information, the Company shall promptly notify the client, as deemed appropriate, to give the client the opportunity to seek protection for the information for which disclosure is sought unless the Company are legally prohibited from doing so. Any such disclosure shall not be interpreted as a breach of these terms and conditions."
+msgid "If a law or regulation or the order of a court of a competent jurisdiction or a governmental or law enforcement agency requires the Company to disclose the client's personal or financial information, the Company shall promptly notify the client, as deemed appropriate, to give the client the opportunity to seek protection for the information for which disclosure is sought unless the Company is legally prohibited from doing so. Any such disclosure shall not be interpreted as a breach of these terms and conditions."
 msgstr "Jika undang-undang atau peraturan atau perintah pengadilan yurisdiksi yang kompeten atau lembaga pemerintah atau penegak hukum mengharuskan Perusahaan untuk mengungkapkan informasi pribadi atau keuangan klien, Perusahaan harus segera memberi tahu klien, yang dianggap tepat, untuk memberi klien kesempatan untuk mencari perlindungan atas informasi yang pengungkapannya sedang dicari kecuali Perusahaan secara hukum dilarang melakukannya. Pengungkapan semacam itu tidak akan ditafsirkan sebagai pelanggaran terhadap syarat dan ketentuan ini."
 
 msgid "If a trade becomes unavailable after the transaction is made but before the trade is executed, the client may request a refund of the charged price. The Company reserves the right to accept or reject the client’s request after investigating the client’s claim. If technical problems prevent the execution of a trade, for example, if a disruption occurs in the data feeds that the Company cannot readily fix, the Company reserves the right to refund or reverse the trade."
@@ -6320,7 +6320,7 @@ msgstr "Sesuai dengan persyaratan peraturan yang berlaku, jika Perusahaan tidak 
 msgid "In all circumstances, the Company reserves the right to make changes to these terms and conditions. If the Company elects to make any material changes to these terms and conditions, clients will be notified in advance and shall either accept or decline to agree. Declining to agree shall result in a material breach of this agreement and the client's account may be frozen, suspended, or cancelled. However, the client shall be allowed to withdraw any pending balance on account subject to KYC verification."
 msgstr "Dalam segala situasi, Perusahaan berhak untuk melakukan perubahan pada syarat dan ketentuan ini. Jika Perusahaan memilih untuk membuat perubahan materi syarat dan ketentuan ini, pelanggan kami akan diberitahukan terlebih dahulu apakah mereka setuju atau menolak perubahan tersebut. Penolakan akan berakibat akun pelanggan mungkin akan dibekukan, dihentikan atau dibatalkan. Namun, klien akan diizinkan untuk menarik setiap sisa saldo yang dimiliki tertakluk pada verifikasi KYC."
 
-msgid "In all instances, the Company takes all reasonably necessary steps to ensure the client's personal data is treated securely and in accordance with this privacy policy and in compliance with any applicable data protection laws. These steps may include placing a contractual obligation on third parties or ensuring that third parties receiving data are certified under an approved certification mechanism such as the one on the Privacy Shieldframework."
+msgid "In all instances, the Company takes all reasonably necessary steps to ensure the client's personal data is treated securely and in accordance with this privacy policy and in compliance with any applicable data protection laws. These steps may include placing a contractual obligation on third parties or ensuring that third parties receiving data are certified under an approved certification mechanism such as the one on the Privacy Shield framework."
 msgstr "Pada dasarnya, Perusahaan akan mengambil semua langkah yang diperlukan bagi memastikan data pribadi klien adalah dikelola secara aman dan sesuai dengan kebijakan privasi ini serta sesuai dengan undang-undang perlindungan data yang berlaku. Langkah ini termasuk memastikan kewajiban kontraktual pada pihak ketiga atau memastikan pikah ketiga yang melakukan pemprosesan data adalah diluluskan menggunakan mekamisme seperti yang disebutkan pada kerangka kerja Perisai Privasi."
 
 msgid "In any event of an error in current prices, published odds, or trading software"
@@ -8484,7 +8484,7 @@ msgid "Our website uses cookies to give you the best user experience. For more i
 msgstr "Situs web kami menggunakan cookie untuk memberi Anda pengalaman terbaik. Untuk informasi lebih lanjut, %1lihat kebijakan kami%2."
 
 msgid "Outside the EU, financial products are offered by Deriv (SVG) LLC, Hinds Building, Kingstown, St. Vincent and the Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission; Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission (%3licence no. SIBA/L/18/1114%4); and Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business (%5licence no. MB/18/0024%6)."
-msgstr ""
+msgstr "Di luar Uni Eropa, produk keuangan yang ditawarkan oleh Deriv (SVG) LLC, yang beralamat di Hinds Building, Kingstown, St. Vincent dan Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, diatur oleh Otoritas Jasa Keuangan Vanuatu; Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, diatur oleh Otoritas Jasa Keuangan Kepulauan Virgin Inggris (%3lihat lisensi. SIBA/L/18/1114%4); dan Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, diatur oleh Otoritas Jasa Keuangan Labuan untuk melakukan bisnis money-broking (%5lihat lisensi. MB/18/0024%6)."
 
 msgid "Outstanding written and verbal communication skills and excellent command of English"
 msgstr "Terampil dalam berkomunikasi baik secara lisan dan memberi instruksi dalam bahasa Inggris dengan baik"
@@ -13854,8 +13854,8 @@ msgstr "Verifikasi identitas"
 msgid "Verify your identity"
 msgstr "Verifikasi identitas Anda"
 
-msgid "Version 54. Last modified 10-05-2022."
-msgstr "Versi 54. Terakhir diubah 10-05-2022."
+msgid "Version 55. Last modified 30-05-2022."
+msgstr "Versi 55. Terakhir diubah 30-05-2022."
 
 msgid "Video Room Facility"
 msgstr "Fasilitas Ruang Video"
@@ -14673,9 +14673,6 @@ msgstr "XMR/USD"
 msgid "XRP/USD"
 msgstr "XRP/USD"
 
-msgid "XTB International Limited"
-msgstr "XTB International Limited"
-
 msgid "Yes"
 msgstr "Ya"
 
@@ -15047,6 +15044,12 @@ msgstr "Bagian Kasir akun Anda untuk sementara dibatakan berhubung Anda belum me
 
 msgid "Your account does not need authentication at this time.%1We will inform you if authentication is required in the future."
 msgstr "Akun Anda tidak perlu melengkapi proses otentikasi untuk saat ini.%1Kami akan menghubungi Anda kembali jika proses otentikasi tersebut diperlukan di masa yang akan datang."
+
+msgid "Your account funds will be rescinded if your account has been inactive for 30 days with an account balance of USD/AUD/EUR/GBP1 or less."
+msgstr "Sisa saldo di bawah USD/AUD/EUR/GBP1 akan dibatalkan jika akun Anda tidak aktif dalam tempo 30 hari."
+
+msgid "Your account funds will be rescinded if your account has been locked or has not recorded any transactions for a period of more than twelve months."
+msgstr "Sisa saldo akun Anda akan dibatalkan jika akun Anda tidak aktif dalam tempo dua belas bulan."
 
 msgid "Your account has been verified successfully"
 msgstr "Akun Anda telah berhasil diverifikasi"
