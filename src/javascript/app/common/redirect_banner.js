@@ -32,7 +32,7 @@ const RedirectBanner = (() => {
         const redirectBinary = new URLSearchParams(window.location.search);
         if (redirectBinary.has('binary-com-lp') || Cookies.get('binary-com-show')){
             // Set cookie if they wanted to stay at binary.com and no redirect
-            Cookies.set('binary-com', true, { expires: 7 });
+            Cookies.set('binary-com-show', true, { expires: 7 });
         } else {
             window.location.replace('https://binary.bot/move-to-deriv');
         }
