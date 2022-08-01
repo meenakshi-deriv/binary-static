@@ -31,7 +31,7 @@ const RedirectBanner = (() => {
         // Check if param have ?binary-com-lp
         const redirectBinary = new URLSearchParams(window.location.search);
         const date = new Date();
-        date.setTime(date.getTime()+(3*60*1000));
+        date.setTime(date.getTime()+(2*60*1000));
        
         if (redirectBinary.has('binary-com-lp') || Cookies.get('binary-com-show')){
             // Set cookie if they wanted to stay at binary.com and no redirect
